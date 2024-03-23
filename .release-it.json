@@ -4,7 +4,7 @@
     },
     "git": {
         "requireBranch": "master",
-        "tagName": "v${version}"
+        "tagName": "${version}"
     },
     "increment": false,
     "npm": {
