@@ -3,7 +3,8 @@
         "release": true
     },
     "git": {
-        "requireBranch": "master"
+        "requireBranch": "master",
+        "tagName": "v${version}"
     },
     "increment": false,
     "npm": {
