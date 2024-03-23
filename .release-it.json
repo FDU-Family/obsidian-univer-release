@@ -3,7 +3,8 @@
         "release": true
     },
     "git": {
-        "tagName": "v${version}"
+        "commitMessage": "chore(release): v${version}",
+        "tagName": "${version}"
     },
     "increment": false,
     "npm": {
