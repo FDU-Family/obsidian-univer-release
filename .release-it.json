@@ -3,7 +3,7 @@
         "release": true
     },
     "git": {
-        "tagName": "${version}"
+        "tagName": "v${version}"
     },
     "increment": false,
     "npm": {
